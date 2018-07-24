@@ -71,9 +71,9 @@ DynamoDB에서는 쿼리문에 있어서 파티션 키 값이 되는 항목이 �
 Index를 타게하고 싶은 경우에는 해당 Index를 직접 지정해야하며, 그 Index의 키를 따라서 쿼리문을 작성해야합니다.
 
 Table에 직접 Query를 실행시키는 소스
-1
+![4.png](./image/2.png)
 원하는 Index를 지정해서 Query를 실행시키는 소스
-2
+![4.png](./image/1.png)
 
 ## <span style="color:#0a0a0a"> 인덱스 조회 / 생성 / 삭제 </span>
 
